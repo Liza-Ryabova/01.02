@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe.config
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.pdb
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.Form1.resources
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.pdb
