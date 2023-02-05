@@ -1,0 +1,11 @@
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\bin\Debug\MatchingGameRYABOVA.exe.config
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\bin\Debug\MatchingGameRYABOVA.exe
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\bin\Debug\MatchingGameRYABOVA.pdb
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.Form1.resources
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.Properties.Resources.resources
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.exe
+C:\Users\maksi\source\repos\MatchingGameRYABOVA\obj\Debug\MatchingGameRYABOVA.pdb
