@@ -1,0 +1,11 @@
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\bin\Debug\MathQuiz1.exe.config
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\bin\Debug\MathQuiz1.exe
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\bin\Debug\MathQuiz1.pdb
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.csproj.AssemblyReference.cache
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.csproj.SuggestedBindingRedirects.cache
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.Form1.resources
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.Properties.Resources.resources
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.csproj.GenerateResource.cache
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.csproj.CoreCompileInputs.cache
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.exe
+C:\Users\azimo\source\repos\MathQuiz1\MathQuiz1\obj\Debug\MathQuiz1.pdb
